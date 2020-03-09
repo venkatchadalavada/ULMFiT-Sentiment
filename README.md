@@ -1,8 +1,6 @@
 # Twitter Airline Sentiment Analysis (ULMfit Sentiment)
 Apply a supervised or semi-supervised ULMFiT model to Twitter US Airlines Sentiment.
 
-
-Tosin Dairo MARCH 09, 2020
 Challenge
 Application of a supervised ULMFiT model to Twitter US Airlines Sentiment
 
